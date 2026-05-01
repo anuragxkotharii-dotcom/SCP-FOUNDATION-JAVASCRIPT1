@@ -33,7 +33,7 @@ The goal of this project is to:
 * ⚙️ Interactive elements powered by JavaScript
 * 🧩 Custom SCP-001 concept with detailed description
 * 🌐 Fully deployed using GitHub Pages
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -76,14 +76,7 @@ This project is a **fan creation** inspired by the SCP Foundation.
 
 * It is **not affiliated with or endorsed by the official SCP Foundation**
 * SCP content is part of a collaborative writing community
-
----
-
-## 📸 Preview
-
-*(Add screenshots here if you want)*
-
----
+* This is the basic example of javascript with the SCP content.
 
 ## 🤝 Contributing
 
